@@ -1,0 +1,57 @@
+<?php 
+
+return [
+    'title'=>'Masofaviy ta\'lim',
+    'home'=>'Bosh Sahifa',
+    'about'=>'Biz haqimizda',
+    'contact'=>'Bog\'lanish',
+    'courses'=>'Kurslar',
+    'event'=>'Hodisalar',
+    'languages'=>'Tillar',
+    'bestonline'=>'Dunyodagi eng zo\'r masofaviy ta\'lim platformasi',
+    'onestep'=>'Doimo bir qadam oldinda bo\'l',
+    'seecourses'=>'Kurslarni ko\'rish',
+    'popular'=>'Omabop kurslarimiz',
+    'populartag'=>'Bizning kurslarimiz orasidagi eng mashhurlari',
+    'coursebtn'=>'Barcha Kurslarni Ko\'rish',
+    'trainers'=>'Bizning O\'qituvchilarimiz',
+    'trainerstag'=>'Bizni yuqori malakali o\'qituvchilarimizdan ta\'lim oling',
+    'trainersbtn'=>'Barcha O\'qituvchilarni Ko\'rish',
+    'login'=>'Kirish',
+    'cabinet'=>'Kabinetim',
+    'logout'=>'Chiqish',
+    'registerq'=>'Ro\'yhatdan O\'tmaganmisiz?',
+    'register'=>'Ro\'yhatdan O\'tish',
+    'loginq'=>'Ro\'yhatdan O\'tganmisiz?',
+    'quicklinks'=>'Tezkor havolalar',
+    'copright'=>'Barcha huquqlar himoyalangan | Bu vebsahifa Qosimjon tomonidan tayyorlangan.',
+    'username'=>'Foydalanuvchi nomi',
+    'password'=>'Parol',
+    'remember'=>'Eslab Qol',
+    'forgot'=>'Parolni unutdingizmi?',
+    'reset'=>'Qayta Tiklash',
+    'verify'=>'Emailni qayta tasdiqlash kodi jo\'natilsinmi?',
+    'resend'=>'Qayta Jo\'nat',
+    'upcoming'=>'Uchrashuvlar',
+    'upcomingtag'=>'Tez orada tashkil etiladigan uchrashuvlar',
+    'seeevents'=>'Barcha Uchrashuvlar', 
+    'seeevent'=>'Ko\'proq Ma\'lumot',
+    'avesome'=>'Bizning Takliflar',
+    'avesometag'=>'Biz sizga nimalar taklif etamiz',
+    'coursedetails'=>'Kurs jadvali',
+    'trainer'=>'O\'qituvchi Ismi',
+    'students'=>'Talabalar soni',
+    'reviews'=>'Izohlar',
+    'enrollbtn'=>'Kursga a\'zo bo\'lish',
+    'enrollbtn1'=>'Kursga a\'zo bo\'lingan',
+    'submit'=>'Jo\'natish',
+    'rating'=>'Baho',
+    'comment'=>'Izoh yozish',
+    'commenth'=>'Bizni baholang',
+    'views'=>'marta ko\'rildi'
+    
+];
+
+
+
+?>
